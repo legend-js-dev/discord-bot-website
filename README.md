@@ -20,4 +20,5 @@
 - Don't copy paste without knowing how it works.
 ## Config
 - Go to `config.json` and put the info needed
+- edit all the `.html` files and put your bot name, avatar, etc in the place where it goes
 - Start The website by `./main.sh`
